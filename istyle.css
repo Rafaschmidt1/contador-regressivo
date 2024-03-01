@@ -2,13 +2,13 @@
 
 :root{
     --background-topicos: #1e1e1e;
-    --barra-interativa: #53ac00;
+    --barra-interativa: #3cff00;
     --branco: #fff;
     --btn-ativo: #088604;
     --borda: #151515;
     --black: #000;
     --fonte: "Anta", sans-serif;
-    --cor-txt: #53ac00;
+    --cor-txt: #7bff00;
 }
 
 body{
